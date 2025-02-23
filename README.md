@@ -1,6 +1,6 @@
 # ActionQueue
 
-**ActionQueue** handles action  in a queue, ensuring that actions are carried out sequentially with a delay between them.
+**ActionQueue** handles action  in a queue, ensuring that actions are executed sequentially with a delay between them. 
 
 ## Features
 - Queue-based action handling
